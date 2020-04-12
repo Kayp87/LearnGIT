@@ -1,1 +1,6 @@
 This file is common, belongs to master.
+
+I created this file after creating branches 1 and 2.
+after creating this file in master, I've committed it, I assumed this will be avail in already created branches but it didn't.
+Now, how can I get this file to both branches.?
+
